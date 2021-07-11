@@ -25,10 +25,9 @@ I am a student of Computer Engineering Department. I'm studying on learning new 
 [<img align="left" alt="c" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c]
 [<img align="left" alt="c" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][cs]
 [<img align="left" alt="matlab" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][matlab]
-[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-
-
 [<img align="left" alt="Visual Studio" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode] 
+[<img align="left" alt="Visual Studio" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][mssql]
+[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br />
 
@@ -38,8 +37,11 @@ I am a student of Computer Engineering Department. I'm studying on learning new 
 [c]: https://www.programiz.com/c-programming
 [cs]: https://www.programiz.com/csharp-programming
 [matlab]: https://www.tutorialspoint.com/matlab/index.htm
-[github]: https://github.com/nurgulaydin
 [vsCode]: https://code.visualstudio.com/
+[mssql]: https://www.sqlservertutorial.net
+[github]: https://github.com/nurgulaydin
 
-  
+<br />
 
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nurgulaydin&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurgulaydin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
