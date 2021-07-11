@@ -1,4 +1,4 @@
-## NURGUL AYDİN 🤗
+## NURGUL AYDİN 🍀
 
 ### About me:
 I am a student of Computer Engineering Department. I'm studying on learning new programming languages and its fundamentals; I make basic and intermediate projects.
@@ -15,6 +15,7 @@ I am a student of Computer Engineering Department. I'm studying on learning new 
 [linkedin]: https://www.linkedin.com/in/nurgül-aydın-2b7b94209/
 [gmail]: mailto:aydinnurgul87@gmail.com
 [twitter]: https://WWW.twitter.com/aspromuskar
+
 <br />
 
 ### 🔧 Languages and Tools:
