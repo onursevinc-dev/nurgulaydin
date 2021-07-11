@@ -40,7 +40,5 @@ I am a student of Computer Engineering Department. I'm studying on learning new 
 [github]: https://github.com/nurgulaydin
 [vsCode]: https://code.visualstudio.com/
 
-<br />
-<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api?username=nurgulaydin&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurgulaydin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+  
 
