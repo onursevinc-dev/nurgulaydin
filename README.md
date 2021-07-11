@@ -42,6 +42,8 @@ I am a student of Computer Engineering Department. I'm studying on learning new 
 [github]: https://github.com/nurgulaydin
 
 <br />
+<br />
+<img height="130em" align="center" src="https://github-readme-stats.vercel.app/api?username=nurgulaydin&show_icons=true&locale=en&theme=light&include_all_commits=true&count_private=true" alt="mukireus"/>
+<img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurgulaydin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=light" alt="mukireus"/>
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nurgulaydin&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurgulaydin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+<br />
