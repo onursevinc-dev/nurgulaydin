@@ -44,6 +44,7 @@ I am a student of Computer Engineering Department. I'm studying on learning new 
 <br />
 <br />
 <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=nurgulaydin&show_icons=true&locale=en&theme=light&include_all_commits=true&count_private=true" alt="mukireus"/>
+
 <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurgulaydin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=light" alt="mukireus"/>
 
 <br />
